@@ -1,0 +1,8 @@
+
+{
+  "name": "Lumina Gallery AI",
+  "description": "A sophisticated Android-style photo gallery with AI-powered search, automatic tagging, and smart image editing capabilities powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
